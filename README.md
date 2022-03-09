@@ -1,1 +1,2 @@
-# doc.js
+node.env
+node_modules
